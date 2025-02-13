@@ -7,3 +7,13 @@ int main() {
     cout << "Sum of " << a << " and " << b << " is: " << sum << endl;
     return 0;
 }
+
+#include <iostream>
+using namespace std;
+
+int main() {
+    cout << "Name: Nimra" << endl;
+    cout << "Roll Number: [Your Roll Number]" << endl;
+    cout << "Department: Department of Software Engineering" << endl;
+    return 0;
+}
